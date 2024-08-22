@@ -1,0 +1,27 @@
+Script started on Fri 17 Nov 2023 03:42:55 PM CST
+^[[?1034hbash-4.2$ ./p4.out^H^H^H^H^H^H^H^H-o p4.out^H^H^H^H^H^H^H^H^H^[[1P./p4.out^H^H^H^H^H^[[1P.out^H^H^H^H5.out^H^H^H^H^M
+Banner id: 904209081^M
+producer produce item 7^M
+consumer consume item 7^M
+producer produce item 14^M
+consumer consume item 14^M
+producer produce item 21^M
+consumer consume item 21^M
+producer produce item 28^M
+consumer consume item 28^M
+producer produce item 35^M
+consumer consume item 35^M
+producer produce item 42^M
+consumer consume item 42^M
+producer produce item 49^M
+consumer consume item 49^M
+producer produce item 56^M
+consumer consume item 56^M
+producer produce item 63^M
+consumer consume item 63^M
+producer produce item 70^M
+consumer consume item 70^M
+bash-4.2$ exit^M
+exit^M
+
+Script done on Fri 17 Nov 2023 03:43:33 PM CST
